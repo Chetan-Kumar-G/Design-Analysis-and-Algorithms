@@ -106,8 +106,9 @@ gcc filename.c -o output
 ```
 
 📬 Author
-Chetan Kumar G
-GitHub: Chetan-Kumar-G
+
+-Chetan Kumar G
+-GitHub: Chetan-Kumar-G
 
 <h3 align="center">✨ Algorithms Become Easy When You Visualize ✨</h3>
 
