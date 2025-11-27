@@ -102,11 +102,11 @@ It is designed to help you learn algorithms faster through **visual understandin
 - Open `.c` files and compile using GCC:  
 ```bash
 gcc filename.c -o output
-./output
+./output```
 
 📬 Author
 
 Chetan Kumar G
 GitHub: Chetan-Kumar-G
 
-<h3 align="center">✨ Algorithms Become Easy When You Visualize ✨</h3> ```
+<h3 align="center">✨ Algorithms Become Easy When You Visualize ✨</h3>
